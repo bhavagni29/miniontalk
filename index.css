@@ -1,7 +1,10 @@
-{
-    background: repeat 1;
-    background-image: url(https://i.pinimg.com/564x/89/39/07/89390730ff378c2c61273cccbd14b598.jpg);
-    background-size: 100%,100%;
+body{
+    background:no-repeat;
+    background-image: url(https://wallpapercave.com/wp/wp2794308.jpg);
+    background-size: cover;
+    background-position:center;
+    background-attachment:fixed;
+    
 }
 
 
@@ -10,14 +13,16 @@ h1{
     font-weight: bolder;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 10vh;
-    background-color: #dde00d;
-    background-size: 100%,100%;
+    color:black;
+    margin-top: 10rem;
+    padding-top:6rem;
+
 }
 textarea{
     width: 70%;
     height: 20vh;
     display: block;
-    margin-top: 2rem;
+    margin-top: 6rem;
     margin-left: 1rem;
     font-size:larger;
     font-weight: bolder;
