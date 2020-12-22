@@ -15,17 +15,14 @@ body{
     font-size: 20px;
     font-weight: bolder;
     text-decoration: none;
-    margin-left:auto;
-    margin-right: auto;
     margin-top: 1rem;
     background-color: yellow;
-    width: 6pc;
+    width: 10pc;
     height: 2pc;
-    padding-left: 40px;
-    padding-top: 15px;
     border-radius: 60%;
-    display: flex;
     border: 2px solid black;
+    padding: 5px;
+    margin-left: 1rem;
 
     
 }
@@ -34,17 +31,14 @@ body{
     font-size: 20px;
     font-weight: bolder;
     text-decoration: none;
-    margin-left:auto;
-    margin-right: auto;
-    margin-top: 1rem;
+    margin-top: 2rem;
     background-color:green;
-    width: 6pc;
+    width: 10pc;
     height: 2pc;
-    padding-left: 40px;
-    padding-top: 15px;
     border-radius: 60%;
-    display: flex;
     border: 2px solid black;
+    padding: 10px;
+    margin-left: 1rem;
     
 }
 
@@ -80,6 +74,7 @@ textarea{
     font-weight:bolder ;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 1rem;
 
 }
 #btn-translate{
@@ -89,11 +84,9 @@ textarea{
     font-size: large;
     font-weight: bolder;
     background-color: yellow;
-    margin-left:auto;
-    margin-right: auto;
-    display: flex;
     margin-top: 2rem;
     padding: 10px;
+    margin-left: 1rem;
 
   }
 #btn-translate:hover{
@@ -104,9 +97,7 @@ textarea{
     font-size: large;
     font-weight: bolder;
     background-color:green;
-    margin-left:auto;
-    margin-right: auto;
-    display: flex;
+
 
 }
 .head1{
