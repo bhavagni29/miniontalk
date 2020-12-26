@@ -10,38 +10,6 @@ body{
 #header1{
     background-color: blanchedalmond;
 }
-.abt{
-    color: black;
-    font-size: 20px;
-    font-weight: bolder;
-    text-decoration: none;
-    margin-top: 1rem;
-    background-color: yellow;
-    width: 10pc;
-    height: 2pc;
-    border-radius: 60%;
-    border: 2px solid black;
-    padding: 5px;
-    margin-left: 1rem;
-
-    
-}
-.abt:hover{
-    color: black;
-    font-size: 20px;
-    font-weight: bolder;
-    text-decoration: none;
-    margin-top: 2rem;
-    background-color:green;
-    width: 10pc;
-    height: 2pc;
-    border-radius: 60%;
-    border: 2px solid black;
-    padding: 10px;
-    margin-left: 1rem;
-    
-}
-
 
 
 h1{
